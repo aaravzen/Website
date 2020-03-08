@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aarav Singh</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Aarav Singh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Feb 2020 17:48:23 -0800</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>about</title>
+      <link>http://example.org/about/aboutpage/</link>
+      <pubDate>Sat, 15 Feb 2020 17:48:23 -0800</pubDate>
+      
+      <guid>http://example.org/about/aboutpage/</guid>
+      <description>Hi, my name&amp;rsquo;s Aarav and this is my website.
+I&amp;rsquo;m currently a software developer at Microsoft working on Azure Traffic Manager.
+In 2017 and 2018, I spent time interning (and competing in lots of puzzle and coding challenges) at Bloomberg, LP.
+I got a couple B.Sc.s from Virginia Tech (one in math and one in computer science) in 2018.
+I&amp;rsquo;ve spent time helping out at VTHacks (PR/organizing for the event) and VTHunt (making the site for the puzzle hunt).</description>
+    </item>
+    
+  </channel>
+</rss>
